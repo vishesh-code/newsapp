@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/vishesh-code/newsapp.git/static/css/main.073c9b0a.css",
+    "main.js": "/vishesh-code/newsapp.git/static/js/main.caf8dbc5.js",
+    "static/js/787.869ae596.chunk.js": "/vishesh-code/newsapp.git/static/js/787.869ae596.chunk.js",
+    "index.html": "/vishesh-code/newsapp.git/index.html",
+    "main.073c9b0a.css.map": "/vishesh-code/newsapp.git/static/css/main.073c9b0a.css.map",
+    "main.caf8dbc5.js.map": "/vishesh-code/newsapp.git/static/js/main.caf8dbc5.js.map",
+    "787.869ae596.chunk.js.map": "/vishesh-code/newsapp.git/static/js/787.869ae596.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.caf8dbc5.js"
+  ]
+}
